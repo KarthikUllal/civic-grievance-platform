@@ -40,7 +40,7 @@ export default function CitizenComplaintForm() {
             Upload Photo
           </label>
 
-          <input type="file" className="w-full border p-3 rounded-lg" />
+          <input type="file" multiple className="w-full border p-3 rounded-lg" />
         </div>
 
         <div>
